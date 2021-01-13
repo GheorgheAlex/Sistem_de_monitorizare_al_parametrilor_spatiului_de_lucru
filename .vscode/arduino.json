@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "uC_Master\\uC_Master.ino",
+    "programmer": "AVRISP mkII"
+}
