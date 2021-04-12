@@ -10,7 +10,6 @@ void TaskLightConversion( void *pvParameters );
 int lightLED = 4; 
 int BUZZ = 3;
 int tempLED = 7; 
-int tempBUZZ = 6;
 
 // Variables
 float temp;
